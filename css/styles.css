@@ -1,0 +1,115 @@
+body {
+    background-color: #ECF2F8;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: .8125em;
+}
+
+img {
+    border-radius: 50%;
+    width: 35px;
+    float: left;
+}
+
+h1 {
+    color: white;
+    font-size: 1.1rem;
+    margin-top: 25x;
+}
+
+h2 {
+    color: white;
+    margin: 5px 0 0 45px;
+    font-size: .95rem;
+}
+
+p {
+    color: #CFCFCF;
+    font-size: .70rem;
+    word-spacing: 2px;
+    line-height: 14px;
+}
+
+.vg {
+    margin: 0;
+    font-size: .75rem;
+    margin-left: 45px;
+}
+
+.all-boxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 200px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+.top-row {
+ display: flex;
+ flex-direction: row;
+ margin-bottom: 20px;
+}
+
+.daniel-box {
+    background-color: #7541C8;
+    background-image: url("images/bg-pattern-quotation.svg");
+    border-radius: 10px;
+    width: 500px;
+    height: 250px;
+    margin-right: 20px;
+}
+
+.jonathan-box {
+    background-color: #48556A;
+    border-radius: 10px;
+    width: 225px;
+    height: 250px;
+    margin-right: 20px;
+}
+
+.bottom-row {
+    display: flex;
+    flex-direction: row;
+}
+.jeanette-box {
+    background-color: white;
+    border-radius: 10px;
+    width: 225px;
+    height: 250px;
+    margin-right: 20px;
+}
+
+.patrick-box {
+    background-color: #19212E;
+    border-radius: 10px;
+    width: 500px;
+    height: 250px;
+    margin-right: 20px;
+}
+
+.kira-box {
+    background-color: white;
+    border-radius: 10px;
+    width: 225px;
+    height: 520px;
+}
+
+.grey {
+    color: #48556A;
+}
+
+.blue {
+    color: #48556A;
+    opacity: 50%;
+}
+.padding {
+    padding: 20px 20px 10px 20px;
+}
+
+.attribution {
+    margin-top: 220px;
+}
